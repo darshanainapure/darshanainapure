@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Darshan Ainapure and I'm a an engineering undergraduate from India with a passion for learning and a knack for hard work</p>
+<p align="left">I'm a an engineering undergraduate from India with a passion for learning and a knack for hard work</p>
 
 ###
 
