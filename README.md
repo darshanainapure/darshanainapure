@@ -57,7 +57,7 @@
   </a>
 
   
-  //<a href="https://www.geeksforgeeks.org/user/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" //alt="my gfgprofile" height="40" width="52" /></a>
+  <a href="https://www.geeksforgeeks.org/user/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="my gfgprofile" height="40" width="52" /></a>
 
   
 </div>
