@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanainapure&label=Profile%0views&color=0e75b6&style=flat" alt="nothing" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanainapure&label=Profile%20views&color=0e75b6&style=flat" alt="nothing" /> </p>
 
 <h2 align="left">Skills</h2>
 
