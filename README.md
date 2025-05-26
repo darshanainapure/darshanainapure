@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating nothing since 2021<br>📚 I'm currently learning Web Development</p>
+<p align="left">✨ Creating since 2021<br>📚 I'm currently learning Web Development</p>
 
 ###
 
